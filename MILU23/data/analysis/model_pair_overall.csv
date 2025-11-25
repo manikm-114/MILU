@@ -1,0 +1,7 @@
+model_a,model_b,avg_concept_jaccard,avg_triple_f1,n_slide_pairs
+OpenGVLab__InternVL3-14B,Qwen__Qwen2-VL-7B-Instruct,0.08481647666965487,0.006535362578334826,1117
+OpenGVLab__InternVL3-14B,Qwen__Qwen3-VL-4B-Instruct,0.03605033929563922,0.03345270068636228,1117
+Qwen__Qwen2-VL-7B-Instruct,Qwen__Qwen3-VL-4B-Instruct,0.03127739911535794,0.0010444643390032824,1117
+llava-hf__llava-onevision-qwen2-7b-ov-hf,OpenGVLab__InternVL3-14B,0.09254152541977073,0.00552074007758878,1117
+llava-hf__llava-onevision-qwen2-7b-ov-hf,Qwen__Qwen2-VL-7B-Instruct,0.07434717624959344,0.008057296329453895,1117
+llava-hf__llava-onevision-qwen2-7b-ov-hf,Qwen__Qwen3-VL-4B-Instruct,0.028463762438695295,0.0014920919128618322,1117

@@ -1,0 +1,304 @@
+[2025-11-14T20:37:02.936094] [build_by_slide] Building by_slide directory at: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\by_slide
+[2025-11-14T20:37:02.971242] [build_by_slide] Processing Lecture 1 — 50 slides
+[2025-11-14T20:37:16.260323] [build_by_slide] Processing Lecture 2 — 50 slides
+[2025-11-14T20:37:31.469176] [build_by_slide] Processing Lecture 3 — 40 slides
+[2025-11-14T20:37:43.719506] [build_by_slide] Processing Lecture 4 — 49 slides
+[2025-11-14T20:37:58.740534] [build_by_slide] Processing Lecture 5 — 50 slides
+[2025-11-14T20:38:15.243040] [build_by_slide] Processing Lecture 6 — 42 slides
+[2025-11-14T20:38:25.385225] [build_by_slide] Processing Lecture 7 — 47 slides
+[2025-11-14T20:38:37.990431] [build_by_slide] Processing Lecture 8 — 43 slides
+[2025-11-14T20:38:49.600321] [build_by_slide] Processing Lecture 9 — 29 slides
+[2025-11-14T20:38:57.818330] [build_by_slide] Processing Lecture 10 — 50 slides
+[2025-11-14T20:39:11.608369] [build_by_slide] Processing Lecture 11 — 64 slides
+[2025-11-14T20:39:30.227831] [build_by_slide] Processing Lecture 12 — 50 slides
+[2025-11-14T20:39:44.721062] [build_by_slide] Processing Lecture 13 — 50 slides
+[2025-11-14T20:40:00.630495] [build_by_slide] Processing Lecture 14 — 60 slides
+[2025-11-14T20:40:18.540652] [build_by_slide] Processing Lecture 15 — 30 slides
+[2025-11-14T20:40:27.242082] [build_by_slide] Processing Lecture 16 — 55 slides
+[2025-11-14T20:40:43.156432] [build_by_slide] Processing Lecture 17 — 55 slides
+[2025-11-14T20:40:58.218616] [build_by_slide] Processing Lecture 18 — 55 slides
+[2025-11-14T20:41:13.582140] [build_by_slide] Processing Lecture 19 — 55 slides
+[2025-11-14T20:41:27.895788] [build_by_slide] Processing Lecture 20 — 55 slides
+[2025-11-14T20:41:42.590690] [build_by_slide] Processing Lecture 21 — 43 slides
+[2025-11-14T20:41:54.406683] [build_by_slide] Processing Lecture 22 — 45 slides
+[2025-11-14T20:42:06.906835] [build_by_slide] Processing Lecture 23 — 50 slides
+[2025-11-14T20:42:21.870376] [build_by_slide] ✅ Done. Built 1117 slide JSON files into by_slide/
+[2025-11-14T20:42:21.889845] [build_by_slide] Location: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\by_slide
+[2025-11-14T20:42:54.216058] [report_parsing_coverage] 
+=== PARSING COVERAGE (valid parsed JSON only) ===
+
+[2025-11-14T20:42:54.230671] [report_parsing_coverage] [llava-hf__llava-onevision-qwen2-7b-ov-hf]
+[2025-11-14T20:42:54.257191] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.275075] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.290040] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T20:42:54.302901] [report_parsing_coverage]   Lecture 4: C   48/49   ( 97.96%) | T   48/49   ( 97.96%)
+[2025-11-14T20:42:54.306583] [report_parsing_coverage]   Lecture 5: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.323323] [report_parsing_coverage]   Lecture 6: C    0/42   (  0.00%) | T    0/42   (  0.00%)
+[2025-11-14T20:42:54.344970] [report_parsing_coverage]   Lecture 7: C   46/47   ( 97.87%) | T   46/47   ( 97.87%)
+[2025-11-14T20:42:54.364058] [report_parsing_coverage]   Lecture 8: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T20:42:54.455911] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T20:42:54.482732] [report_parsing_coverage]   Lecture 10: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.502000] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   64/64   (100.00%)
+[2025-11-14T20:42:54.523457] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.545535] [report_parsing_coverage]   Lecture 13: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.564664] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T20:42:54.584891] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T20:42:54.600534] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:54.616418] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:54.632716] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:54.649053] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:54.689084] [report_parsing_coverage]   Lecture 20: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:54.707843] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T20:42:54.723260] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T20:42:54.743829] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.761556] [report_parsing_coverage] 
+[2025-11-14T20:42:54.790435] [report_parsing_coverage] [OpenGVLab__InternVL3-14B]
+[2025-11-14T20:42:54.814552] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.838613] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:54.859123] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T20:42:54.876260] [report_parsing_coverage]   Lecture 4: C   49/49   (100.00%) | T   49/49   (100.00%)
+[2025-11-14T20:42:54.892365] [report_parsing_coverage]   Lecture 5: C    0/50   (  0.00%) | T    0/50   (  0.00%)
+[2025-11-14T20:42:54.907132] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   42/42   (100.00%)
+[2025-11-14T20:42:54.925754] [report_parsing_coverage]   Lecture 7: C   47/47   (100.00%) | T   47/47   (100.00%)
+[2025-11-14T20:42:54.949065] [report_parsing_coverage]   Lecture 8: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T20:42:54.975508] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T20:42:54.994668] [report_parsing_coverage]   Lecture 10: C    2/50   (  4.00%) | T   25/50   ( 50.00%)
+[2025-11-14T20:42:55.024819] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   64/64   (100.00%)
+[2025-11-14T20:42:55.041960] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.060023] [report_parsing_coverage]   Lecture 13: C    0/50   (  0.00%) | T    0/50   (  0.00%)
+[2025-11-14T20:42:55.085811] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T20:42:55.102844] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T20:42:55.110290] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.138450] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.142039] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.156082] [report_parsing_coverage]   Lecture 19: C    0/55   (  0.00%) | T    0/55   (  0.00%)
+[2025-11-14T20:42:55.174096] [report_parsing_coverage]   Lecture 20: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:55.191255] [report_parsing_coverage]   Lecture 21: C   38/43   ( 88.37%) | T   43/43   (100.00%)
+[2025-11-14T20:42:55.209117] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T20:42:55.312343] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.350964] [report_parsing_coverage] 
+[2025-11-14T20:42:55.370902] [report_parsing_coverage] [Qwen__Qwen2-VL-7B-Instruct]
+[2025-11-14T20:42:55.393665] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.413464] [report_parsing_coverage]   Lecture 2: C   48/50   ( 96.00%) | T   48/50   ( 96.00%)
+[2025-11-14T20:42:55.432331] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T20:42:55.455246] [report_parsing_coverage]   Lecture 4: C   49/49   (100.00%) | T   49/49   (100.00%)
+[2025-11-14T20:42:55.472607] [report_parsing_coverage]   Lecture 5: C   50/50   (100.00%) | T   48/50   ( 96.00%)
+[2025-11-14T20:42:55.489717] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   42/42   (100.00%)
+[2025-11-14T20:42:55.504901] [report_parsing_coverage]   Lecture 7: C   46/47   ( 97.87%) | T   45/47   ( 95.74%)
+[2025-11-14T20:42:55.530094] [report_parsing_coverage]   Lecture 8: C   41/43   ( 95.35%) | T   42/43   ( 97.67%)
+[2025-11-14T20:42:55.542296] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T20:42:55.554622] [report_parsing_coverage]   Lecture 10: C   49/50   ( 98.00%) | T   49/50   ( 98.00%)
+[2025-11-14T20:42:55.572021] [report_parsing_coverage]   Lecture 11: C   63/64   ( 98.44%) | T   63/64   ( 98.44%)
+[2025-11-14T20:42:55.588497] [report_parsing_coverage]   Lecture 12: C   49/50   ( 98.00%) | T   49/50   ( 98.00%)
+[2025-11-14T20:42:55.604558] [report_parsing_coverage]   Lecture 13: C   49/50   ( 98.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.621190] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T20:42:55.638104] [report_parsing_coverage]   Lecture 15: C   29/30   ( 96.67%) | T   30/30   (100.00%)
+[2025-11-14T20:42:55.671829] [report_parsing_coverage]   Lecture 16: C   54/55   ( 98.18%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:55.688047] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.704875] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.731678] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.748270] [report_parsing_coverage]   Lecture 20: C   53/55   ( 96.36%) | T   55/55   (100.00%)
+[2025-11-14T20:42:55.771305] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T20:42:55.787975] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T20:42:55.805111] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.837900] [report_parsing_coverage] 
+[2025-11-14T20:42:55.850891] [report_parsing_coverage] [Qwen__Qwen3-VL-4B-Instruct]
+[2025-11-14T20:42:55.871252] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:55.900448] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   49/50   ( 98.00%)
+[2025-11-14T20:42:55.914670] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T20:42:55.933082] [report_parsing_coverage]   Lecture 4: C   48/49   ( 97.96%) | T   48/49   ( 97.96%)
+[2025-11-14T20:42:55.946233] [report_parsing_coverage]   Lecture 5: C   49/50   ( 98.00%) | T   48/50   ( 96.00%)
+[2025-11-14T20:42:55.962597] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   40/42   ( 95.24%)
+[2025-11-14T20:42:55.972688] [report_parsing_coverage]   Lecture 7: C   47/47   (100.00%) | T   13/47   ( 27.66%)
+[2025-11-14T20:42:55.988984] [report_parsing_coverage]   Lecture 8: C   38/43   ( 88.37%) | T   41/43   ( 95.35%)
+[2025-11-14T20:42:56.005748] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   28/29   ( 96.55%)
+[2025-11-14T20:42:56.025462] [report_parsing_coverage]   Lecture 10: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T20:42:56.038747] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   63/64   ( 98.44%)
+[2025-11-14T20:42:56.055175] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   48/50   ( 96.00%)
+[2025-11-14T20:42:56.069690] [report_parsing_coverage]   Lecture 13: C   49/50   ( 98.00%) | T   46/50   ( 92.00%)
+[2025-11-14T20:42:56.082472] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T20:42:56.098428] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T20:42:56.130126] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:56.155537] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T20:42:56.186160] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:56.205251] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T20:42:56.234604] [report_parsing_coverage]   Lecture 20: C   54/55   ( 98.18%) | T   55/55   (100.00%)
+[2025-11-14T20:42:56.254185] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T20:42:56.270939] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T20:42:56.298103] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   49/50   ( 98.00%)
+[2025-11-14T20:42:56.305863] [report_parsing_coverage] 
+[2025-11-14T20:42:56.355158] [report_parsing_coverage] ✅ Coverage CSV saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\parsing_coverage.csv
+[2025-11-14T20:43:48.092070] [fuse_models_multi] ✅ Fused 1117 slides
+[2025-11-14T20:43:48.110451] [fuse_models_multi] File saved: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\fusion\fusion_multi_models.jsonl
+[2025-11-14T20:44:20.894564] [analyze_model_agreement_multi] ✅ Slide-level saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\slide_level_agreement.csv
+[2025-11-14T20:44:20.914270] [analyze_model_agreement_multi] ✅ Lecture-level saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\lecture_level_agreement.csv
+[2025-11-14T20:44:20.937603] [analyze_model_agreement_multi] ✅ Overall pair summary saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\model_pair_overall.csv
+[2025-11-14T20:44:20.955585] [analyze_model_agreement_multi] ✅ Total slide pairs analyzed: 6702
+[2025-11-14T20:44:30.207102] [summarize_cross_model_concepts] ✅ Saved cross-model concept overlap to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\cross_model_concept_overlap.csv
+[2025-11-14T20:44:42.292659] [evaluate_superlearner] llava-hf__llava-onevision-qwen2-7b-ov-hf concept_jaccard=0.155 triple_f1=0.014
+[2025-11-14T20:44:42.300180] [evaluate_superlearner] OpenGVLab__InternVL3-14B            concept_jaccard=0.179 triple_f1=0.044
+[2025-11-14T20:44:42.315711] [evaluate_superlearner] Qwen__Qwen2-VL-7B-Instruct          concept_jaccard=0.151 triple_f1=0.015
+[2025-11-14T20:44:42.332961] [evaluate_superlearner] Qwen__Qwen3-VL-4B-Instruct          concept_jaccard=0.056 triple_f1=0.042
+[2025-11-14T20:44:42.427796] [evaluate_superlearner] ✅ Superlearner evaluation written to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_evaluation.csv, G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_evaluation_lecture.csv, G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_overall.csv
+[2025-11-14T20:44:54.978211] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_parsing_coverage.png
+[2025-11-14T20:44:55.316702] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_cross_model_concept_overlap.png
+[2025-11-14T20:44:55.694492] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_lecture_trend_concepts_triples.png
+[2025-11-14T20:44:55.947503] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_model_pair_heatmap_concept.png
+[2025-11-14T20:44:56.197825] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_model_pair_heatmap_triple.png
+[2025-11-14T20:44:56.467552] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_hist_concept_jaccard.png
+[2025-11-14T20:44:56.667014] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_hist_triple_f1.png
+[2025-11-14T20:44:56.996383] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_superlearner_concepts_trend.png
+[2025-11-14T20:44:57.271417] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_superlearner_triples_trend.png
+[2025-11-14T20:44:57.281581] [advanced_visualizations] ✅ Advanced visualizations completed.
+[2025-11-14T22:13:20.395367] [build_by_slide] Building by_slide directory at: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\by_slide
+[2025-11-14T22:13:20.513884] [build_by_slide] Processing Lecture 1 — 50 slides
+[2025-11-14T22:13:37.241269] [build_by_slide] Processing Lecture 2 — 50 slides
+[2025-11-14T22:13:53.494142] [build_by_slide] Processing Lecture 3 — 40 slides
+[2025-11-14T22:14:05.429118] [build_by_slide] Processing Lecture 4 — 49 slides
+[2025-11-14T22:14:20.734598] [build_by_slide] Processing Lecture 5 — 50 slides
+[2025-11-14T22:14:35.220042] [build_by_slide] Processing Lecture 6 — 42 slides
+[2025-11-14T22:14:47.363215] [build_by_slide] Processing Lecture 7 — 47 slides
+[2025-11-14T22:15:00.687103] [build_by_slide] Processing Lecture 8 — 43 slides
+[2025-11-14T22:15:13.825434] [build_by_slide] Processing Lecture 9 — 29 slides
+[2025-11-14T22:15:22.357925] [build_by_slide] Processing Lecture 10 — 50 slides
+[2025-11-14T22:15:37.431747] [build_by_slide] Processing Lecture 11 — 64 slides
+[2025-11-14T22:15:56.223472] [build_by_slide] Processing Lecture 12 — 50 slides
+[2025-11-14T22:16:11.892053] [build_by_slide] Processing Lecture 13 — 50 slides
+[2025-11-14T22:16:26.033404] [build_by_slide] Processing Lecture 14 — 60 slides
+[2025-11-14T22:16:45.608787] [build_by_slide] Processing Lecture 15 — 30 slides
+[2025-11-14T22:16:55.111608] [build_by_slide] Processing Lecture 16 — 55 slides
+[2025-11-14T22:17:11.697147] [build_by_slide] Processing Lecture 17 — 55 slides
+[2025-11-14T22:17:29.546491] [build_by_slide] Processing Lecture 18 — 55 slides
+[2025-11-14T22:17:46.181252] [build_by_slide] Processing Lecture 19 — 55 slides
+[2025-11-14T22:18:02.250738] [build_by_slide] Processing Lecture 20 — 55 slides
+[2025-11-14T22:18:19.509697] [build_by_slide] Processing Lecture 21 — 43 slides
+[2025-11-14T22:18:32.642869] [build_by_slide] Processing Lecture 22 — 45 slides
+[2025-11-14T22:18:45.907013] [build_by_slide] Processing Lecture 23 — 50 slides
+[2025-11-14T22:18:59.968022] [build_by_slide] ✅ Done. Built 1117 slide JSON files into by_slide/
+[2025-11-14T22:18:59.986880] [build_by_slide] Location: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\by_slide
+[2025-11-14T22:19:31.583155] [report_parsing_coverage] 
+=== PARSING COVERAGE (valid parsed JSON only) ===
+
+[2025-11-14T22:19:31.589783] [report_parsing_coverage] [llava-hf__llava-onevision-qwen2-7b-ov-hf]
+[2025-11-14T22:19:31.621816] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.635746] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.661876] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T22:19:31.669658] [report_parsing_coverage]   Lecture 4: C   48/49   ( 97.96%) | T   48/49   ( 97.96%)
+[2025-11-14T22:19:31.702344] [report_parsing_coverage]   Lecture 5: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.717454] [report_parsing_coverage]   Lecture 6: C    0/42   (  0.00%) | T    0/42   (  0.00%)
+[2025-11-14T22:19:31.733325] [report_parsing_coverage]   Lecture 7: C   46/47   ( 97.87%) | T   46/47   ( 97.87%)
+[2025-11-14T22:19:31.749327] [report_parsing_coverage]   Lecture 8: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T22:19:31.766993] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T22:19:31.784677] [report_parsing_coverage]   Lecture 10: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.802443] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   64/64   (100.00%)
+[2025-11-14T22:19:31.819496] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.838762] [report_parsing_coverage]   Lecture 13: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:31.859651] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T22:19:31.876973] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T22:19:31.893448] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:31.911123] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:31.928832] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:31.946801] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:32.002228] [report_parsing_coverage]   Lecture 20: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:32.066714] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T22:19:32.081262] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T22:19:32.101018] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.136517] [report_parsing_coverage] 
+[2025-11-14T22:19:32.160585] [report_parsing_coverage] [OpenGVLab__InternVL3-14B]
+[2025-11-14T22:19:32.178312] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.195928] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.225807] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T22:19:32.239883] [report_parsing_coverage]   Lecture 4: C   49/49   (100.00%) | T   49/49   (100.00%)
+[2025-11-14T22:19:32.267057] [report_parsing_coverage]   Lecture 5: C    0/50   (  0.00%) | T    0/50   (  0.00%)
+[2025-11-14T22:19:32.287063] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   42/42   (100.00%)
+[2025-11-14T22:19:32.308248] [report_parsing_coverage]   Lecture 7: C   47/47   (100.00%) | T   47/47   (100.00%)
+[2025-11-14T22:19:32.347862] [report_parsing_coverage]   Lecture 8: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T22:19:32.368732] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T22:19:32.382621] [report_parsing_coverage]   Lecture 10: C    2/50   (  4.00%) | T   25/50   ( 50.00%)
+[2025-11-14T22:19:32.397781] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   64/64   (100.00%)
+[2025-11-14T22:19:32.418015] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.436360] [report_parsing_coverage]   Lecture 13: C    0/50   (  0.00%) | T    0/50   (  0.00%)
+[2025-11-14T22:19:32.466805] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T22:19:32.492868] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T22:19:32.519763] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:32.537574] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:32.568119] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:32.587325] [report_parsing_coverage]   Lecture 19: C    0/55   (  0.00%) | T    0/55   (  0.00%)
+[2025-11-14T22:19:32.603234] [report_parsing_coverage]   Lecture 20: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:32.620228] [report_parsing_coverage]   Lecture 21: C   38/43   ( 88.37%) | T   43/43   (100.00%)
+[2025-11-14T22:19:32.637335] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T22:19:32.654624] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.686345] [report_parsing_coverage] 
+[2025-11-14T22:19:32.716603] [report_parsing_coverage] [Qwen__Qwen2-VL-7B-Instruct]
+[2025-11-14T22:19:32.739668] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.753591] [report_parsing_coverage]   Lecture 2: C   48/50   ( 96.00%) | T   48/50   ( 96.00%)
+[2025-11-14T22:19:32.787356] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T22:19:32.802932] [report_parsing_coverage]   Lecture 4: C   49/49   (100.00%) | T   49/49   (100.00%)
+[2025-11-14T22:19:32.819018] [report_parsing_coverage]   Lecture 5: C   50/50   (100.00%) | T   48/50   ( 96.00%)
+[2025-11-14T22:19:32.837143] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   42/42   (100.00%)
+[2025-11-14T22:19:32.853696] [report_parsing_coverage]   Lecture 7: C   46/47   ( 97.87%) | T   45/47   ( 95.74%)
+[2025-11-14T22:19:32.866955] [report_parsing_coverage]   Lecture 8: C   41/43   ( 95.35%) | T   42/43   ( 97.67%)
+[2025-11-14T22:19:32.883925] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   29/29   (100.00%)
+[2025-11-14T22:19:32.903561] [report_parsing_coverage]   Lecture 10: C   49/50   ( 98.00%) | T   49/50   ( 98.00%)
+[2025-11-14T22:19:32.913491] [report_parsing_coverage]   Lecture 11: C   63/64   ( 98.44%) | T   63/64   ( 98.44%)
+[2025-11-14T22:19:32.929480] [report_parsing_coverage]   Lecture 12: C   49/50   ( 98.00%) | T   49/50   ( 98.00%)
+[2025-11-14T22:19:32.945588] [report_parsing_coverage]   Lecture 13: C   49/50   ( 98.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:32.961568] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T22:19:32.970217] [report_parsing_coverage]   Lecture 15: C   29/30   ( 96.67%) | T   30/30   (100.00%)
+[2025-11-14T22:19:32.988016] [report_parsing_coverage]   Lecture 16: C   54/55   ( 98.18%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:33.007034] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.034936] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.050407] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.070633] [report_parsing_coverage]   Lecture 20: C   53/55   ( 96.36%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.093936] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T22:19:33.117281] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T22:19:33.132930] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:33.148737] [report_parsing_coverage] 
+[2025-11-14T22:19:33.164782] [report_parsing_coverage] [Qwen__Qwen3-VL-4B-Instruct]
+[2025-11-14T22:19:33.170224] [report_parsing_coverage]   Lecture 1: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:33.188349] [report_parsing_coverage]   Lecture 2: C   50/50   (100.00%) | T   49/50   ( 98.00%)
+[2025-11-14T22:19:33.204436] [report_parsing_coverage]   Lecture 3: C   40/40   (100.00%) | T   40/40   (100.00%)
+[2025-11-14T22:19:33.222063] [report_parsing_coverage]   Lecture 4: C   48/49   ( 97.96%) | T   48/49   ( 97.96%)
+[2025-11-14T22:19:33.239400] [report_parsing_coverage]   Lecture 5: C   49/50   ( 98.00%) | T   48/50   ( 96.00%)
+[2025-11-14T22:19:33.254365] [report_parsing_coverage]   Lecture 6: C   42/42   (100.00%) | T   40/42   ( 95.24%)
+[2025-11-14T22:19:33.287460] [report_parsing_coverage]   Lecture 7: C   47/47   (100.00%) | T   13/47   ( 27.66%)
+[2025-11-14T22:19:33.319105] [report_parsing_coverage]   Lecture 8: C   38/43   ( 88.37%) | T   41/43   ( 95.35%)
+[2025-11-14T22:19:33.345464] [report_parsing_coverage]   Lecture 9: C   29/29   (100.00%) | T   28/29   ( 96.55%)
+[2025-11-14T22:19:33.384931] [report_parsing_coverage]   Lecture 10: C   50/50   (100.00%) | T   50/50   (100.00%)
+[2025-11-14T22:19:33.399837] [report_parsing_coverage]   Lecture 11: C   64/64   (100.00%) | T   63/64   ( 98.44%)
+[2025-11-14T22:19:33.403211] [report_parsing_coverage]   Lecture 12: C   50/50   (100.00%) | T   48/50   ( 96.00%)
+[2025-11-14T22:19:33.437720] [report_parsing_coverage]   Lecture 13: C   49/50   ( 98.00%) | T   46/50   ( 92.00%)
+[2025-11-14T22:19:33.452884] [report_parsing_coverage]   Lecture 14: C   60/60   (100.00%) | T   60/60   (100.00%)
+[2025-11-14T22:19:33.470981] [report_parsing_coverage]   Lecture 15: C   30/30   (100.00%) | T   30/30   (100.00%)
+[2025-11-14T22:19:33.491886] [report_parsing_coverage]   Lecture 16: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:33.503176] [report_parsing_coverage]   Lecture 17: C   55/55   (100.00%) | T   54/55   ( 98.18%)
+[2025-11-14T22:19:33.539271] [report_parsing_coverage]   Lecture 18: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.555181] [report_parsing_coverage]   Lecture 19: C   55/55   (100.00%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.571006] [report_parsing_coverage]   Lecture 20: C   54/55   ( 98.18%) | T   55/55   (100.00%)
+[2025-11-14T22:19:33.596935] [report_parsing_coverage]   Lecture 21: C   43/43   (100.00%) | T   43/43   (100.00%)
+[2025-11-14T22:19:33.622511] [report_parsing_coverage]   Lecture 22: C   45/45   (100.00%) | T   45/45   (100.00%)
+[2025-11-14T22:19:33.637881] [report_parsing_coverage]   Lecture 23: C   50/50   (100.00%) | T   49/50   ( 98.00%)
+[2025-11-14T22:19:33.671326] [report_parsing_coverage] 
+[2025-11-14T22:19:33.703739] [report_parsing_coverage] ✅ Coverage CSV saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\parsing_coverage.csv
+[2025-11-14T22:20:16.720591] [fuse_models_multi] ✅ Fused 1117 slides
+[2025-11-14T22:20:16.741632] [fuse_models_multi] File saved: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\fusion\fusion_multi_models.jsonl
+[2025-11-14T22:21:30.449340] [analyze_model_agreement_multi] ✅ Slide-level saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\slide_level_agreement.csv
+[2025-11-14T22:21:30.459349] [analyze_model_agreement_multi] ✅ Lecture-level saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\lecture_level_agreement.csv
+[2025-11-14T22:21:30.494217] [analyze_model_agreement_multi] ✅ Overall pair summary saved to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\model_pair_overall.csv
+[2025-11-14T22:21:30.510185] [analyze_model_agreement_multi] ✅ Total slide pairs analyzed: 6702
+[2025-11-14T22:21:34.086095] [summarize_cross_model_concepts] ✅ Saved cross-model concept overlap to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\cross_model_concept_overlap.csv
+[2025-11-14T22:21:43.842992] [evaluate_superlearner] llava-hf__llava-onevision-qwen2-7b-ov-hf concept_jaccard=0.155 triple_f1=0.014
+[2025-11-14T22:21:43.859755] [evaluate_superlearner] OpenGVLab__InternVL3-14B            concept_jaccard=0.179 triple_f1=0.044
+[2025-11-14T22:21:43.879169] [evaluate_superlearner] Qwen__Qwen2-VL-7B-Instruct          concept_jaccard=0.151 triple_f1=0.015
+[2025-11-14T22:21:43.893376] [evaluate_superlearner] Qwen__Qwen3-VL-4B-Instruct          concept_jaccard=0.056 triple_f1=0.042
+[2025-11-14T22:21:43.996132] [evaluate_superlearner] ✅ Superlearner evaluation written to: G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_evaluation.csv, G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_evaluation_lecture.csv, G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\superlearner_overall.csv
+[2025-11-14T22:21:50.065326] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_parsing_coverage.png
+[2025-11-14T22:21:50.350876] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_cross_model_concept_overlap.png
+[2025-11-14T22:21:50.730233] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_lecture_trend_concepts_triples.png
+[2025-11-14T22:21:50.988593] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_model_pair_heatmap_concept.png
+[2025-11-14T22:21:51.249617] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_model_pair_heatmap_triple.png
+[2025-11-14T22:21:51.482210] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_hist_concept_jaccard.png
+[2025-11-14T22:21:51.650170] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_hist_triple_f1.png
+[2025-11-14T22:21:51.960801] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_superlearner_concepts_trend.png
+[2025-11-14T22:21:52.501694] [advanced_visualizations] Saved G:\My Drive\1. Studies\RPI\Thesis\1. Prof Ge Wang\1. Avatar Project\Future Directions\Comparing Models\Lectures\Retrieved Data\Further Work\MILU23\data\analysis\fig_superlearner_triples_trend.png
+[2025-11-14T22:21:52.512079] [advanced_visualizations] ✅ Advanced visualizations completed.

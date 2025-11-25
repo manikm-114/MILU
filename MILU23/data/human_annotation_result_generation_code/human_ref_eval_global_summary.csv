@@ -1,0 +1,5 @@
+model,global_avg_concept_jaccard,global_avg_triple_f1,n_concept_slides,n_triple_slides
+OpenGVLab/InternVL3-14B,0.5636704119850188,1.0,1068,1068
+Qwen/Qwen2-VL-7B-Instruct,0.7125468164794008,1.0,1068,1068
+Qwen/Qwen3-VL-4B-Instruct,0.8642322097378277,1.0,1068,1035
+llava-hf/llava-onevision-qwen2-7b-ov-hf,0.6734892787524367,1.0,1026,1026
